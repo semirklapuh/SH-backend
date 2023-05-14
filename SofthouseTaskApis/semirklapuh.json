@@ -1,0 +1,9 @@
+{
+  "Id": 515228148,
+  "Name": "AdoptMeReact",
+  "Description": "test",
+  "Html_url": "https://github.com/semirklapuh/AdoptMeReact",
+  "Clone_url": "https://github.com/semirklapuh/AdoptMeReact.git",
+  "Ssh_url": "git@github.com:semirklapuh/AdoptMeReact.git",
+  "Visibility": "private"
+}
